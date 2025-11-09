@@ -1,0 +1,3 @@
+-- AlterTable
+ALTER TABLE "Garment" ALTER COLUMN "color" DROP NOT NULL,
+ALTER COLUMN "fabric" DROP NOT NULL;
